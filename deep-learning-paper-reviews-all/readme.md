@@ -31,3 +31,35 @@ Names of the reviews in the deep-learning-paper-reviews-all/All Reviews_ Numbere
 29. Review 29: Language Modeling via Stochastic Processes
 30. Review 30: Diffusion-LM Improves Controllable Text Generation
 
+deep-learning-paper-reviews-all/All Reviews_ Numbered, 31-60.pdf
+
+Review 31: Understanding Contrastive Representation Learning
+Review 32: GAN-Control: Explicitly Controllable GANs
+Review 33: PreTrained Image Processing Transformer
+Review 34: Identifying Mislabeled Data using the Area Under the
+Review 35: Regularizing Towards Permutation Invariance in
+Review 36: Sequence-to-Sequence Contrastive Learning for Text
+Review 37: Teaching with Commentaries
+Review 38: Removing Bias in Multi-modal Classifiers:
+Review 39: Supermasks in Superposition
+Review 40: Unsupervised Learning of Visual Features by
+Review 41: Improving GAN Training with Probability Ratio
+Review 42: Representation Learning via Invariant Causal
+Review 43: Sharpness-Aware Minimization for Efficiently
+Review 44: TransGAN: Two Transformers Can Make One Strong
+Review 45: Rethinking Attention With Performers
+Review 46: Discriminator Rejection Sampling
+Review 47: Perceiver: General Perception with Iterative Attention
+Review 48: VAEBM: A symbiosis between autoencoders and
+Review 49: Exemplar VAE: Linking Generative Models, Nearest Neighbor
+Review 50: Language Through a Prism: A Spectral Approach for
+Review 51: Explaining in Style: Training a GAN to explain a
+Review 52: Neuron Shapley: Discovering the Responsible
+Review 53: Learning to summarize from human feedback
+Review 54: Robust Optimal Transport with Applications in
+Review 55: InfoBERT: Improving Robustness of Language
+Review 56: Meta-Learning Requires Meta-Augmentation
+Review 57: Geometric Dataset Distances via Optimal Transport
+Review 58: Gradient Descent with Early Stopping is Provably
+Review 59: Unsupervised Discovery of Interpretable Directions in
+Review 60: Diffusion Models Beat GANs on Image Synthesis
